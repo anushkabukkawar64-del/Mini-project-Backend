@@ -1,0 +1,17 @@
+[
+  {
+    "method": "GET",
+    "url": "/products",
+    "time": "2026-09-24T05:31:18.744Z"
+  },
+  {
+    "method": "GET",
+    "url": "/orders",
+    "time": "2026-09-24T05:31:32.141Z"
+  },
+  {
+    "method": "GET",
+    "url": "/customers",
+    "time": "2026-09-24T05:31:46.469Z"
+  }
+]
